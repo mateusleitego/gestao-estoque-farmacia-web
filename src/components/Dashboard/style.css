@@ -1,0 +1,31 @@
+i {
+  font-size: 1.5rem;
+}
+
+.excluir {
+  cursor: pointer;
+}
+
+.excluir:hover {
+  color: #bb2d3b;
+}
+
+.editar {
+  cursor: pointer;
+}
+
+.editar:hover {
+  color: #ffc107;
+}
+
+.btn {
+  margin: 0 10px;
+}
+
+.search {
+  width: 20vw;
+}
+
+main {
+  padding: 50px;
+}

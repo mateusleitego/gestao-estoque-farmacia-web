@@ -1,0 +1,42 @@
+.form {
+  background: #2d3436;
+  width: 100vw;
+  height: 100vh;
+  padding: 10%;
+}
+
+.content {
+  background: #fff;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+
+  margin: 0 auto;
+  width: 50vw;
+  height: 50vh;
+  padding: 20% 10%;
+
+  border-radius: 8px;
+  border: 1px solid #ced4da;
+}
+
+.content h2 {
+  padding: 15px;
+}
+
+.btn,
+div {
+  width: 100%;
+}
+
+.inputCustom {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.inputCustom i {
+  padding-right: 10px;
+}
