@@ -55,6 +55,7 @@ export default function ModalUpdate({ medicine }) {
                 id="nome"
                 {...register('nome')}
                 value={nome}
+                onChange={() => setNome()}
               />
             </div>
 
